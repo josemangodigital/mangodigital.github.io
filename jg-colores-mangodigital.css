@@ -1,0 +1,71 @@
+/* colores jg tema */
+
+.jg-naranja-fuerte
+{background:#f6821f!important}
+
+.jg-naranja
+{background:#f78021!important}
+
+.jg-naranja-hover
+{background:#fef8f1!important}
+
+.jg-azul-boton
+{background:#056dff!important}
+
+.jg-azul-oscuro
+{background:#003681!important}
+
+.jg-azul-medio
+{background:#0055cc!important}
+
+.jg-azul-medio-bajo
+{background:#1a79ff!important}
+
+.jg-azul-suave
+{background:#66a6ff!important}
+
+.button {
+  /*background-color: #04AA6D;  Green */
+  border: none;
+  color: #000;
+  padding: 8px 16px;
+  vertical-align: middle;
+  overflow: hidden;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font: lato;
+  font-size: 18px;
+  /*margin: 4px 2px;*/
+  /*transition-duration: 0.4s;*/
+  cursor: pointer;
+  width: 100%;
+ white-space: nowrap;
+}
+
+.button:hover {
+  background-color: #e5a46b; /* jg naranja hover */
+  color: #fff; */
+
+/*.boton-azul {
+  background-color: 056dff!important; 
+  border: none;
+  color: #000;
+  padding: 8px 16px;
+  vertical-align: middle;
+  overflow: hidden;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font: lato;
+  font-size: 18px;
+  /*margin: 4px 2px;*/
+  /*transition-duration: 0.4s;
+  cursor: pointer;
+  width: 100%;
+ white-space: nowrap;
+}
+
+.boton-azul:hover {
+  background-color: #e5a46b; 
+  color: #fff;*/
