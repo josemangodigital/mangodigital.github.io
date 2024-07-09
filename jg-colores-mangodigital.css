@@ -9,6 +9,9 @@
 .jg-naranja-hover
 {background:#fef8f1!important}
 
+.jg-naranja-fondo
+{background: #fff7f2!important}
+
 .jg-azul-boton
 {background:#056dff!important}
 
@@ -23,6 +26,14 @@
 
 .jg-azul-suave
 {background:#66a6ff!important}
+
+
+#hr-n1 {
+  border: 1px solid #f78021;
+}
+#hr-n2{
+  border: 1px solid #003681;
+}
 
 .button {
   /*background-color: #04AA6D;  Green */
@@ -44,8 +55,18 @@
 }
 
 .button:hover {
-  background-color: #f78021; /* jg naranja  */
+  background-color: #f6821f; /* jg naranja hover */
   color: #fff; */
+}
+
+
+ul.limpio {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
 
 /*.boton-azul {
   background-color: 056dff!important; 
