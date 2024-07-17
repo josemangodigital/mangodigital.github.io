@@ -55,7 +55,7 @@
 }
 
 .button:hover {
-  background-color: #f6821f; /* jg naranja hover */
+  background-color:#f6821f!important; 
   color: #fff; */
 }
 
